@@ -32,7 +32,7 @@ namespace FileDump
                                       exchange: "direct_logs",
                                       routingKey: severity);
                 }
-
+                Console.WriteLine("___________ LogEmitter has started _____________ ");
                 Console.WriteLine(" [*] Waiting for logs. All logs are written in FileDump.log file, which is in the .exe folder. ");
 
 
@@ -48,8 +48,9 @@ namespace FileDump
                     // ecriture dans le file FileDump.log qui se trouve dans le dossier du .exe
                     string logToWrite = "["+ DateTime.UtcNow.ToString("yyyy-MM-dd HH':'mm':'ss") + "][" + routingKey.ToUpper() + "] : " + message;
                     File.AppendAllText(@".\FileDump.log" , logToWrite+"\n");
+          
 
-                    Console.WriteLine(" Received and Writing ... ");
+                    Console.WriteLine( " Received and Writing ... ");
                 };
                 channel.BasicConsume(queue: queueName,
                                      autoAck: true,

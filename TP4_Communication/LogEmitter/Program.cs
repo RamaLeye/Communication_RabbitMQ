@@ -17,9 +17,11 @@ namespace LogEmitter
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {
+                Console.WriteLine("___________ LogEmitter has started _____________ ");
+                Console.WriteLine("[*] Appuyez sur la touche entrée pour créer un log [*] " );
 
                 //création de l'échangeur
-                channel.ExchangeDeclare(exchange: "direct_logs",
+               channel.ExchangeDeclare(exchange: "direct_logs",
                                         type: "direct");
 
                 while (Console.ReadKey().Key == ConsoleKey.Enter)

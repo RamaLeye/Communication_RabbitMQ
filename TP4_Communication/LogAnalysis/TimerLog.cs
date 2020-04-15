@@ -36,7 +36,7 @@ namespace LogAnalysis
         public  void Execute()
         {
             SetTimer();
-            Console.WriteLine("The application started at {0:HH:mm:ss.fff}", DateTime.Now);
+            Console.WriteLine("___________LogAnalysis has started at {0:HH:mm:ss.fff} ___________", DateTime.Now);
 
             loadingLogsNumber();
 
