@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Receiver/1.0.0": {
+      "LogAnalysis/1.0.0": {
         "dependencies": {
           "RabbitMQ.Client": "5.1.2"
         },
         "runtime": {
-          "Receiver.dll": {}
+          "LogAnalysis.dll": {}
         }
       },
       "RabbitMQ.Client/5.1.2": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "Receiver/1.0.0": {
+    "LogAnalysis/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

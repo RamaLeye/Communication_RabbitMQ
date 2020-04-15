@@ -1,3 +1,15 @@
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.exe
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.AssemblyInfoInputs.cache
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.runtimeconfig.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.runtimeconfig.dev.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.csproj.CopyComplete
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.genruntimeconfig.cache

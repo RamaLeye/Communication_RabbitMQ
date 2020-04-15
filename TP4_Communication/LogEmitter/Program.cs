@@ -36,7 +36,7 @@ namespace LogEmitter
                                          routingKey: severity,
                                          basicProperties: null,
                                          body: body);
-                    Console.WriteLine(" [x] Sent '{0}':'{1}'", severity, message);
+                    Console.WriteLine(" LogEmitter Sent '{0}':'{1}'", severity, message);
                 }
 
             }

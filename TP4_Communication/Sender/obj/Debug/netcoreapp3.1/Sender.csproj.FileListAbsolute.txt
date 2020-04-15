@@ -1,6 +1,0 @@
-C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4\TP4_Communication\Sender\bin\Debug\netcoreapp3.1\Sender.exe
-C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4\TP4_Communication\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
-C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4\TP4_Communication\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
-C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\Sender\bin\Debug\netcoreapp3.1\Sender.exe
-C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
-C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
