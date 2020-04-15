@@ -1,0 +1,3 @@
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\bin\Debug\netcoreapp3.1\LogAnalysis.exe
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogAnalysis\obj\Debug\netcoreapp3.1\LogAnalysis.AssemblyInfo.cs

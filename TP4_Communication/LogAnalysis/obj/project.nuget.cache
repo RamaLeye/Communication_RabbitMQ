@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BLgSUJpvS8wAc8JrDBK5vFWOu7PbyPD9+9uTxhFjLEw08b+oa+/S/o63+rygr8Ownq0g7BoJHLvPMRMChXXgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP4_Communication\\TP4_PatronsModeles_Communication\\TP4_Communication\\LogAnalysis\\LogAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

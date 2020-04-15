@@ -1,0 +1,15 @@
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.exe
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.runtimeconfig.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.runtimeconfig.dev.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csproj.CopyComplete
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.genruntimeconfig.cache

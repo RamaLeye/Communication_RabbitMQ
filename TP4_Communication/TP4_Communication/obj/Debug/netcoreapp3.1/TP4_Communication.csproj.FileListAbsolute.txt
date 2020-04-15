@@ -1,0 +1,4 @@
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4\TP4_Communication\TP4_Communication\bin\Debug\netcoreapp3.1\TP4_Communication.exe
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4\TP4_Communication\TP4_Communication\obj\Debug\netcoreapp3.1\TP4_Communication.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4\TP4_Communication\TP4_Communication\obj\Debug\netcoreapp3.1\TP4_Communication.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4\TP4_Communication\TP4_Communication\obj\Debug\netcoreapp3.1\TP4_Communication.AssemblyInfo.cs

@@ -1,0 +1,15 @@
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\bin\Debug\netcoreapp3.1\FileDump.exe
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\obj\Debug\netcoreapp3.1\FileDump.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\obj\Debug\netcoreapp3.1\FileDump.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\bin\Debug\netcoreapp3.1\FileDump.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\bin\Debug\netcoreapp3.1\FileDump.runtimeconfig.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\bin\Debug\netcoreapp3.1\FileDump.runtimeconfig.dev.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\bin\Debug\netcoreapp3.1\FileDump.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\bin\Debug\netcoreapp3.1\FileDump.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\obj\Debug\netcoreapp3.1\FileDump.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\obj\Debug\netcoreapp3.1\FileDump.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\obj\Debug\netcoreapp3.1\FileDump.csproj.CopyComplete
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\obj\Debug\netcoreapp3.1\FileDump.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\obj\Debug\netcoreapp3.1\FileDump.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP4_Communication\TP4_PatronsModeles_Communication\TP4_Communication\FileDump\obj\Debug\netcoreapp3.1\FileDump.genruntimeconfig.cache
